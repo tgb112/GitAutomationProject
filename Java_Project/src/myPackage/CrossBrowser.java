@@ -41,7 +41,7 @@ public class CrossBrowser {
 	}
 
 	@Test
-	public void login() throws Exception {
+	public void loginApp() throws Exception {
 		driver.get("https://www.flipkart.com");
 		logger.info("Navigate to URL");
 		// driver.findElement(By.xpath("//*[@class=\"_1_3w1N\"]")).click();
