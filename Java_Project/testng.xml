@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="myPackage.TestNG1" />
+			<class name="myPackage.TestNG2" />
+			<class name="myPackage.TestNG3" />
+			<class name="myPackage.TestNG4" />
+			<class name="myPackage.TestNG5" />
+			<class name="myPackage.TestNG6" />
+			<class name="myPackage.TestNG7" />
+			<class name="myPackage.TestNG8" />
+			<class name="myPackage.ExcelProgram2" />
+			<class name="myPackage.TakeScreenshotOnFailure2" />
+			<class name="myPackage.Assertion1" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

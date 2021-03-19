@@ -1,0 +1,79 @@
+2020-10-03 00:35:30,600 [main] INFO Log4J - ChromeBrowser Opened
+2020-10-03 00:35:32,830 [main] INFO Log4J - Window Maximized
+2020-10-03 00:39:44,473 [main] INFO Log4J - ChromeBrowser Opened
+2020-10-03 00:39:46,742 [main] INFO Log4J - Window Maximized
+2020-10-03 00:39:46,751 [main] INFO Log4J - Implicit Wait given
+2020-10-03 00:39:49,173 [main] INFO Log4J - Facebook applcation opened
+2020-10-03 00:40:46,779 [main] INFO Log4J - ChromeBrowser Opened
+2020-10-03 00:40:48,933 [main] INFO Log4J - Window Maximized
+2020-10-03 00:40:48,938 [main] INFO Log4J - Implicit Wait given
+2020-10-03 00:40:50,538 [main] INFO Log4J - Facebook applcation opened
+2021-03-19 14:59:57,526 [main] INFO Log4J - Firefox Browser Launched
+2021-03-19 14:59:57,920 [main] INFO Log4J - Maximized Browser
+2021-03-19 15:00:05,335 [main] INFO Log4J - Navigate to URL
+2021-03-19 15:00:53,920 [main] INFO Log4J - Chrome Browser Launched
+2021-03-19 15:00:54,087 [main] INFO Log4J - Maximized Browser
+2021-03-19 15:00:58,027 [main] INFO Log4J - Navigate to URL
+2021-03-19 15:03:19,348 [main] INFO Log4J - Chrome Browser Launched
+2021-03-19 15:03:19,550 [main] INFO Log4J - Maximized Browser
+2021-03-19 15:03:23,333 [main] INFO Log4J - Navigate to URL
+2021-03-19 15:43:58,239 [main] INFO Log4J - Chrome Browser Launched
+2021-03-19 15:43:58,891 [main] INFO Log4J - Maximized Browser
+2021-03-19 15:44:03,631 [main] INFO Log4J - Navigate to URL
+2021-03-19 15:44:05,846 [main] INFO Log4J - Username entered..
+2021-03-19 15:44:07,983 [main] INFO Log4J - Password entered..
+2021-03-19 15:44:10,092 [main] INFO Log4J - Clicked on Login Button
+2021-03-19 15:44:12,383 [main] INFO Log4J - Entered a product
+2021-03-19 15:44:14,492 [main] INFO Log4J - Clicked on search
+2021-03-19 15:44:20,777 [main] INFO Log4J - Browser Closed
+2021-03-19 15:44:46,784 [main] INFO Log4J - Firefox Browser Launched
+2021-03-19 15:44:48,714 [main] INFO Log4J - Maximized Browser
+2021-03-19 15:44:57,301 [main] INFO Log4J - Navigate to URL
+2021-03-19 15:45:00,442 [main] INFO Log4J - Username entered..
+2021-03-19 15:45:02,529 [main] INFO Log4J - Password entered..
+2021-03-19 15:45:05,046 [main] INFO Log4J - Clicked on Login Button
+2021-03-19 15:45:07,209 [main] INFO Log4J - Entered a product
+2021-03-19 15:45:09,497 [main] INFO Log4J - Clicked on search
+2021-03-19 15:45:13,904 [main] INFO Log4J - Browser Closed
+2021-03-19 15:57:41,408 [main] INFO Log4J - Chrome Browser Launched
+2021-03-19 15:57:41,573 [main] INFO Log4J - Maximized Browser
+2021-03-19 15:57:44,385 [TestNG-test=Test1-1] INFO Log4J - Navigate to URL
+2021-03-19 15:57:46,497 [TestNG-test=Test1-1] INFO Log4J - Username entered..
+2021-03-19 15:57:48,647 [TestNG-test=Test1-1] INFO Log4J - Password entered..
+2021-03-19 15:57:50,773 [TestNG-test=Test1-1] INFO Log4J - Clicked on Login Button
+2021-03-19 15:57:52,930 [TestNG-test=Test1-1] INFO Log4J - Entered a product
+2021-03-19 15:57:55,059 [TestNG-test=Test1-1] INFO Log4J - Clicked on search
+2021-03-19 15:58:01,280 [TestNG-test=Test1-1] INFO Log4J - Browser Closed
+2021-03-19 15:58:08,821 [main] INFO Log4J - Firefox Browser Launched
+2021-03-19 15:58:09,135 [main] INFO Log4J - Maximized Browser
+2021-03-19 15:58:17,578 [TestNG-test=Test2-1] INFO Log4J - Navigate to URL
+2021-03-19 15:58:19,677 [TestNG-test=Test2-1] INFO Log4J - Username entered..
+2021-03-19 15:58:21,739 [TestNG-test=Test2-1] INFO Log4J - Password entered..
+2021-03-19 15:58:24,015 [TestNG-test=Test2-1] INFO Log4J - Clicked on Login Button
+2021-03-19 15:58:26,123 [TestNG-test=Test2-1] INFO Log4J - Entered a product
+2021-03-19 15:59:36,851 [main] INFO Log4J - Chrome Browser Launched
+2021-03-19 15:59:37,040 [main] INFO Log4J - Maximized Browser
+2021-03-19 15:59:41,194 [TestNG-test=Test1-1] INFO Log4J - Navigate to URL
+2021-03-19 15:59:43,325 [TestNG-test=Test1-1] INFO Log4J - Username entered..
+2021-03-19 15:59:45,443 [TestNG-test=Test1-1] INFO Log4J - Password entered..
+2021-03-19 15:59:47,546 [TestNG-test=Test1-1] INFO Log4J - Clicked on Login Button
+2021-03-19 15:59:49,755 [TestNG-test=Test1-1] INFO Log4J - Entered a product
+2021-03-19 15:59:51,862 [TestNG-test=Test1-1] INFO Log4J - Clicked on search
+2021-03-19 15:59:58,056 [TestNG-test=Test1-1] INFO Log4J - Browser Closed
+2021-03-19 16:00:05,102 [main] INFO Log4J - Firefox Browser Launched
+2021-03-19 16:00:05,391 [main] INFO Log4J - Maximized Browser
+2021-03-19 16:00:12,162 [TestNG-test=Test2-1] INFO Log4J - Navigate to URL
+2021-03-19 16:00:14,268 [TestNG-test=Test2-1] INFO Log4J - Username entered..
+2021-03-19 16:00:16,355 [TestNG-test=Test2-1] INFO Log4J - Password entered..
+2021-03-19 16:00:18,631 [TestNG-test=Test2-1] INFO Log4J - Clicked on Login Button
+2021-03-19 16:00:20,801 [TestNG-test=Test2-1] INFO Log4J - Entered a product
+2021-03-19 16:00:23,087 [TestNG-test=Test2-1] INFO Log4J - Clicked on search
+2021-03-19 16:00:27,868 [TestNG-test=Test2-1] INFO Log4J - Browser Closed
+2021-03-19 19:40:27,802 [main] INFO Log4J - Chrome Browser Launched
+2021-03-19 19:40:28,141 [main] INFO Log4J - Maximized Browser
+2021-03-19 19:40:31,811 [TestNG-test=Test1-1] INFO Log4J - Navigate to URL
+2021-03-19 19:40:34,008 [TestNG-test=Test1-1] INFO Log4J - Username entered..
+2021-03-19 19:40:36,214 [TestNG-test=Test1-1] INFO Log4J - Password entered..
+2021-03-19 19:40:38,386 [TestNG-test=Test1-1] INFO Log4J - Clicked on Login Button
+2021-03-19 19:40:40,742 [TestNG-test=Test1-1] INFO Log4J - Entered a product
+2021-03-19 19:40:42,879 [TestNG-test=Test1-1] INFO Log4J - Clicked on search
