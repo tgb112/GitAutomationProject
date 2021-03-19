@@ -1,0 +1,18 @@
+2020-10-03 00:35:30,600 [main] INFO Log4J - ChromeBrowser Opened
+2020-10-03 00:35:32,830 [main] INFO Log4J - Window Maximized
+2020-10-03 00:39:44,473 [main] INFO Log4J - ChromeBrowser Opened
+2020-10-03 00:39:46,742 [main] INFO Log4J - Window Maximized
+2020-10-03 00:39:46,751 [main] INFO Log4J - Implicit Wait given
+2020-10-03 00:39:49,173 [main] INFO Log4J - Facebook applcation opened
+2020-10-03 00:40:46,779 [main] INFO Log4J - ChromeBrowser Opened
+2020-10-03 00:40:48,933 [main] INFO Log4J - Window Maximized
+2020-10-03 00:40:48,938 [main] INFO Log4J - Implicit Wait given
+2020-10-03 00:40:50,538 [main] INFO Log4J - Facebook applcation opened
+2020-12-12 11:46:31,794 [main] INFO Log4J - ChromeBrowser Opened
+2020-12-12 11:46:34,115 [main] INFO Log4J - Window Maximized
+2020-12-12 11:46:34,180 [main] INFO Log4J - Implicit Wait given
+2020-12-12 11:46:37,241 [main] INFO Log4J - Facebook applcation opened
+2020-12-12 11:50:27,872 [main] INFO Log4J - ChromeBrowser Opened
+2020-12-12 11:50:30,065 [main] INFO Log4J - Window Maximized
+2020-12-12 11:50:30,073 [main] INFO Log4J - Implicit Wait given
+2020-12-12 11:50:32,557 [main] INFO Log4J - Facebook applcation opened
